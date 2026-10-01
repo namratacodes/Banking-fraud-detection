@@ -1,0 +1,10 @@
+{
+  "total_transactions": 284807,
+  "fraud_count": 492,
+  "fraud_rate_pct": 0.1727,
+  "naive_accuracy_pct": 99.827,
+  "fraud_amount_mean": 122.21,
+  "legit_amount_mean": 88.29,
+  "top_positive_corr_feature": "V11",
+  "top_negative_corr_feature": "V17"
+}

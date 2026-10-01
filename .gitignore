@@ -1,0 +1,48 @@
+# --- Data (large / regeneratable files, don't commit) ---
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
+data/processed/*.parquet
+
+# Keep the folder structure visible on GitHub even though files are ignored
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# --- Trained models (can be large, regenerate via training scripts) ---
+models/*.pkl
+models/*.joblib
+models/*.h5
+!models/.gitkeep
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.Python
+build/
+dist/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Environment / secrets ---
+.env
+*.env.local
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Logs ---
+*.log
