@@ -1,0 +1,86 @@
+[
+  {
+    "transaction_id": 200787,
+    "amount": 1.0,
+    "fraud_probability": 1.0,
+    "flagged": true,
+    "top_reasons": [
+      "irregular transaction signature",
+      "deviation from normal account behavior",
+      "unusual merchant/transaction signal"
+    ],
+    "raw_contributions": [
+      {
+        "feature": "V14",
+        "shap_value": 6.2011,
+        "label": "irregular transaction signature"
+      },
+      {
+        "feature": "V10",
+        "shap_value": 1.3813,
+        "label": "deviation from normal account behavior"
+      },
+      {
+        "feature": "V7",
+        "shap_value": 1.2049,
+        "label": "unusual merchant/transaction signal"
+      }
+    ]
+  },
+  {
+    "transaction_id": 56155,
+    "amount": 172.32,
+    "fraud_probability": 1.0,
+    "flagged": true,
+    "top_reasons": [
+      "irregular transaction signature",
+      "deviation from normal account behavior",
+      "transaction pattern anomaly"
+    ],
+    "raw_contributions": [
+      {
+        "feature": "V14",
+        "shap_value": 7.0176,
+        "label": "irregular transaction signature"
+      },
+      {
+        "feature": "V10",
+        "shap_value": 2.0036,
+        "label": "deviation from normal account behavior"
+      },
+      {
+        "feature": "V4",
+        "shap_value": 1.1966,
+        "label": "transaction pattern anomaly"
+      }
+    ]
+  },
+  {
+    "transaction_id": 92866,
+    "amount": 18.96,
+    "fraud_probability": 1.0,
+    "flagged": true,
+    "top_reasons": [
+      "irregular transaction signature",
+      "deviation from normal account behavior",
+      "transaction pattern anomaly"
+    ],
+    "raw_contributions": [
+      {
+        "feature": "V14",
+        "shap_value": 6.9175,
+        "label": "irregular transaction signature"
+      },
+      {
+        "feature": "V10",
+        "shap_value": 2.0198,
+        "label": "deviation from normal account behavior"
+      },
+      {
+        "feature": "V4",
+        "shap_value": 1.3725,
+        "label": "transaction pattern anomaly"
+      }
+    ]
+  }
+]
