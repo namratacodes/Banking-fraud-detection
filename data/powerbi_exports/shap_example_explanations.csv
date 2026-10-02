@@ -1,0 +1,4 @@
+transaction_id,amount,fraud_probability,flagged,top_reasons
+200787,1.0,1.0,True,irregular transaction signature | deviation from normal account behavior | unusual merchant/transaction signal
+56155,172.32,1.0,True,irregular transaction signature | deviation from normal account behavior | transaction pattern anomaly
+92866,18.96,1.0,True,irregular transaction signature | deviation from normal account behavior | transaction pattern anomaly

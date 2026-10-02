@@ -1,0 +1,38 @@
+feature,mean_abs_shap,business_label
+V14,3.1137009,irregular transaction signature
+V4,1.2850798,transaction pattern anomaly
+V12,1.1330011,atypical merchant/category pattern
+V10,0.8303246,deviation from normal account behavior
+V3,0.5875455,atypical account usage pattern
+V7,0.49113843,unusual merchant/transaction signal
+V11,0.4765656,elevated risk pattern
+V16,0.4311464,uncommon transaction characteristics
+V5,0.41581917,unusual spending signature
+V17,0.41274786,unusual spending pattern
+V8,0.39488396,V8
+V28,0.35946494,unusual account pattern
+V19,0.34818792,unusual spending signal
+hour_of_day,0.3333231,hour_of_day
+V26,0.3264131,irregular transaction indicator
+V1,0.29295364,irregular transaction indicator
+rolling_avg_amount_5,0.2882571,deviation from recent spending average
+V15,0.28385764,atypical transaction marker
+V24,0.28299162,atypical account behavior
+V22,0.28074914,unusual transaction marker
+txn_velocity_1h,0.27980447,high transaction velocity in the last hour
+V6,0.2749746,atypical transaction behavior
+amount_dev_from_user_mean,0.267749,amount far from this account's typical spend
+V2,0.26048413,unusual account activity signal
+V23,0.2527454,irregular spending indicator
+V21,0.2524332,atypical merchant signal
+V18,0.24453743,uncommon account activity
+Time,0.24006581,Time
+V13,0.23900652,irregular usage pattern
+amount_zscore_user,0.23684831,statistically unusual transaction amount
+V20,0.19686827,irregular account pattern
+V27,0.18946803,atypical spending signal
+V25,0.17663696,unusual account marker
+Amount,0.15967242,transaction amount
+V9,0.11958983,unusual account signal
+is_night,0.049979728,transaction occurred during unusual hours
+day_of_week,0.0,day_of_week

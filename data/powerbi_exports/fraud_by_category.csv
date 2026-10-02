@@ -1,0 +1,11 @@
+merchant_category,total_transactions,fraud_count,fraud_rate_pct
+Jewelry,28738,110,0.3828
+Electronics,28305,95,0.3356
+Travel,28521,65,0.2279
+ATM Withdrawal,28438,64,0.2251
+Online Shopping,28557,63,0.2206
+Fuel/Petrol,28317,26,0.0918
+Dining,28364,23,0.0811
+Pharmacy,28391,18,0.0634
+Grocery,28535,14,0.0491
+Utility Bills,28641,14,0.0489

@@ -1,0 +1,11 @@
+state,total_transactions,fraud_count,fraud_rate_pct
+Telangana,28340,53,0.187
+Maharashtra,28445,52,0.1828
+Karnataka,28772,52,0.1807
+West Bengal,28386,50,0.1761
+Gujarat,28400,50,0.1761
+Uttar Pradesh,28412,50,0.176
+Tamil Nadu,28704,49,0.1707
+Rajasthan,28408,47,0.1654
+Madhya Pradesh,28563,47,0.1645
+Delhi,28377,42,0.148
