@@ -1,0 +1,18 @@
+{
+  "best_model": "XGBoost",
+  "best_threshold": 0.5,
+  "metrics_at_0.5": [
+    {
+      "model": "XGBoost",
+      "roc_auc": 0.9926062398791818,
+      "pr_auc": 0.903198710954289,
+      "f1": 0.8969072164948454
+    },
+    {
+      "model": "IsolationForest",
+      "roc_auc": 0.9564393885016022,
+      "pr_auc": 0.09745213161766485,
+      "f1": 0.12221144519883609
+    }
+  ]
+}

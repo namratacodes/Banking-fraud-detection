@@ -1,0 +1,24 @@
+# Core data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Plotting (Phase 1 EDA, Phase 4 PR curves/threshold plots)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine learning (Phase 3-4)
+scikit-learn>=1.3.0
+imbalanced-learn>=0.11.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+
+# Explainability (Phase 5)
+shap>=0.44.0
+
+# Real-time API (Phase 6)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+
+# Dashboard (Phase 8)
+streamlit>=1.28.0
